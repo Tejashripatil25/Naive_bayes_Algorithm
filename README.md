@@ -4,6 +4,9 @@ Naive Bayes is a fast, easy to understand, and highly scalable algorithm.
 
 ### Naive Bayes Classifier
 
+![image](https://github.com/Tejashripatil25/Naive_bayes_Algorithm/assets/124791646/5ef7a800-2575-43f6-862c-c4fc498f9af0)
+
+
 Naive Bayes is a classification algorithm for binary (two-class) and multi-class classification problems. T
 
 he technique is easiest to understand when described using binary or categorical input values.
